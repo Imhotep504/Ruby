@@ -1,0 +1,22 @@
+# ANDROID IGNORES 
+# Built application files 
+
+*.apk 
+*.ap
+
+
+#FIles for the Dalvic VM
+*.dex 
+
+#Java class files 
+*.class 
+
+#Generated files 
+bin/
+gen/ 
+
+#Gradle files 
+.gradle/ 
+build 
+
+this is all random text of course (no project)  
